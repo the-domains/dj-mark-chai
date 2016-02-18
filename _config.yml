@@ -1,7 +1,7 @@
 name: DJ MARK CHAI
 favicon: null
-layout_spectrum: 0.3133289834950119
-typography_spectrum: 0.425409275572747
+layout_spectrum: 0.69772
+typography_spectrum: 0.50867
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4175476070959121
+    - '#89819c'
+    - '#ffffff'
+    - '#12110c'
+    - '#b6be74'
+    - '#874e55'
+  brandStrength: 0.375
   lightness: 0.8545099073089659
-  saturation: 0.5309873290825635
-  rhythmicContrast: 0.750684987520799
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
